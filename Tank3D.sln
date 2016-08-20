@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{059D77A3-2566-C2F7-E721-78F113A0FB2C}") = "Tank3D", "Assembly-CSharp.csproj", "{BD256DF9-0A85-5901-BA9E-95A898A26F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD256DF9-0A85-5901-BA9E-95A898A26F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD256DF9-0A85-5901-BA9E-95A898A26F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD256DF9-0A85-5901-BA9E-95A898A26F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD256DF9-0A85-5901-BA9E-95A898A26F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
